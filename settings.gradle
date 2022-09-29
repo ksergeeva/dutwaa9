@@ -1,0 +1,5 @@
+rootProject.name = 'Garden2'
+include 'db'
+include 'service'
+include 'api'
+
